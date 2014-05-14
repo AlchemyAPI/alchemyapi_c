@@ -1,0 +1,13 @@
+CHANGELOG
+
+0.9 - Added support for taxonomy, image extraction, and combined call.
+0.8 - Added support for author extraction
+0.7 - Added support for relations extraction.
+0.6 - Added support for sentiment analysis.
+0.5.1 - Added more detailed API error code reporting.
+0.5 - Added GetRankedConcepts calls and parameter objects.
+0.4 - Added GetRankedKeywords calls, added TextGetCategory call.
+0.3 - Added ConstraintQuery API call, general improvements.
+0.2 - Updated API endpoint.  Corrected an enum typo.  Added
+      orch8_set_key_util() [C], SetAPIKey() [C++].
+0.1 - Initial Release
