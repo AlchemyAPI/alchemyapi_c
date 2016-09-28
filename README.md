@@ -3,7 +3,7 @@ AlchemyAPI C SDK: version 0.9
 =============================
 
 This is a C implementation of the AlchemyAPI SDK.  C++ API wrappers are also
-included with this distribution.
+included with this distribution. - **_Please note that this legacy AlchemyAPI SDK is no longer supported by IBM. Please use the Watson SDKs https://github.com/watson-developer-cloud?utf8=✓&query=sdk_**
 
 
 INSTALLATION
